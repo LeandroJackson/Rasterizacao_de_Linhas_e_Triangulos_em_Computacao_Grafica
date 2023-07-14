@@ -1,0 +1,5 @@
+﻿  main.cpp
+  mygl.cpp
+mygl.obj : error LNK2005: "unsigned char * FBptr" (?FBptr@@3PAEA) já definida no main.obj
+mygl.obj : error LNK2005: "void __cdecl MyGlDraw(void)" (?MyGlDraw@@YAXXZ) já definida no main.obj
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'freeglut.lib'

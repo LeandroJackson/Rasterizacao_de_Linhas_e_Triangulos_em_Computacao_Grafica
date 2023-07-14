@@ -1,0 +1,5 @@
+﻿  main.cpp
+  mygl.cpp
+  Gerando Código...
+mygl.obj : error LNK2005: "void __cdecl MyGlDraw(void)" (?MyGlDraw@@YAXXZ) já definida no main.obj
+LINK : fatal error LNK1104: não é possível abrir o arquivo 'freeglut.lib'
